@@ -14,7 +14,7 @@ earthquake-clustering
 ├── notebook/
 │   └── earthquake_clustering_analysis.ipynb   # Jupyter Notebook with analysis and visualization
 ├── README.md                    # Project overview and instructions
-├── requirements.txt             # List of required Python packages
+└── requirements.txt             # List of required Python packages
 
 ```
 
